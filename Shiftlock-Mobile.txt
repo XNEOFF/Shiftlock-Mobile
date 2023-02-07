@@ -5,9 +5,9 @@
 
 game.StarterGui:SetCore("SendNotification", {
 
-    Title = "Shiftlock Script";
+    Title = "Shiftlock Mobile";
 
-    Text = "Enjoy";
+    Text = "BY XNEO";
 
 })
 
